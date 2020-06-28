@@ -30,76 +30,76 @@ async function activePokemonList(item){
 
     switch(response1.types[0].type.name){
         case "grass":
-            pokemonIndividual.style.background = 'urL("../img/backGrass.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backGrass.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "fire":
-            pokemonIndividual.style.background = 'urL("../img/backFire.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backFire.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "poison":
-            pokemonIndividual.style.background = 'urL("../img/backPoison.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backPoison.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "water":
-            pokemonIndividual.style.background = 'urL("../img/backWater.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backWater.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "bug":
-            pokemonIndividual.style.background = 'urL("../img/backBug.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backBug.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "dark":
-            pokemonIndividual.style.background = 'urL("../img/backDark.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backDark.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "dragon":
-            pokemonIndividual.style.background = 'urL("../img/backDragon.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backDragon.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "electric":
-            pokemonIndividual.style.background = 'urL("../img/backElectric.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backElectric.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "fairy":
-            pokemonIndividual.style.background = 'urL("../img/backFairy.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backFairy.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "fighting":
-            pokemonIndividual.style.background = 'urL("../img/backFighting.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backFighting.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "flying":
-            pokemonIndividual.style.background = 'urL("../img/backFlying.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backFlying.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "ghost":
-            pokemonIndividual.style.background = 'urL("../img/backGhost.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backGhost.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "ground":
-            pokemonIndividual.style.background = 'urL("../img/backGround.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backGround.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "ice":
-            pokemonIndividual.style.background = 'urL("../img/backIce.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backIce.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "normal":
-            pokemonIndividual.style.background = 'urL("../img/backNormal.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backNormal.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "psychic":
-            pokemonIndividual.style.background = 'urL("../img/backPichic.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backPichic.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "rock":
-            pokemonIndividual.style.background = 'urL("../img/backRock.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backRock.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "steel":
-            pokemonIndividual.style.background = 'urL("../img/backSteel.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backSteel.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
     }
@@ -125,76 +125,75 @@ async function activePokemonInput(){
 
     switch(response1.types[0].type.name){
         case "grass":
-            pokemonIndividual.style.background = 'urL("../img/backGrass.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backGrass.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "fire":
-            pokemonIndividual.style.background = 'urL("../img/backFire.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backFire.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "poison":
-            pokemonIndividual.style.background = 'urL("../img/backPoison.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backPoison.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "water":
-            pokemonIndividual.style.background = 'urL("../img/backWater.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backWater.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "bug":
-            pokemonIndividual.style.background = 'urL("../img/backBug.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backBug.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "dark":
-            pokemonIndividual.style.background = 'urL("../img/backDark.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backDark.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "dragon":
-            pokemonIndividual.style.background = 'urL("../img/backDragon.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backDragon.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "electric":
-            pokemonIndividual.style.background = 'urL("../img/backElectric.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backElectric.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "fairy":
-            pokemonIndividual.style.background = 'urL("../img/backFairy.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backFairy.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "fighting":
-            pokemonIndividual.style.background = 'urL("../img/backFighting.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backFighting.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "flying":
-            pokemonIndividual.style.background = 'urL("../img/backFlying.jpg") no-repeat center'
-            pokemonIndividual.style.backgroundSize = 'cover'
+            pokemonIndividual.style.background = 'urL("./img/backFlying.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "ghost":
-            pokemonIndividual.style.background = 'urL("../img/backGhost.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backGhost.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "ground":
-            pokemonIndividual.style.background = 'urL("../img/backGround.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backGround.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "ice":
-            pokemonIndividual.style.background = 'urL("../img/backIce.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backIce.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "normal":
-            pokemonIndividual.style.background = 'urL("../img/backNormal.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backNormal.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "psychic":
-            pokemonIndividual.style.background = 'urL("../img/backPichic.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backPichic.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "rock":
-            pokemonIndividual.style.background = 'urL("../img/backRock.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backRock.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "steel":
-            pokemonIndividual.style.background = 'urL("../img/backSteel.jpg") no-repeat center'
+            pokemonIndividual.style.background = 'urL("./img/backSteel.jpg") no-repeat center'
             pokemonIndividual.style.backgroundSize = 'cover'
         break;
     }
@@ -281,58 +280,58 @@ function pokemonClickModel(pokemonQuery){
 
             switch(responsePoke.types[0].type.name){
                 case "grass":
-                    backgroundPokemon.style.background = 'urL("../img/backGrass.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backGrass.jpg") no-repeat center'
                 break;
                 case "fire":
-                    backgroundPokemon.style.background = 'urL("../img/backFire.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backFire.jpg") no-repeat center'
                 break;
                 case "poison":
-                    backgroundPokemon.style.background = 'urL("../img/backPoison.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backPoison.jpg") no-repeat center'
                 break;
                 case "water":
-                    backgroundPokemon.style.background = 'urL("../img/backWater.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backWater.jpg") no-repeat center'
                 break;
                 case "bug":
-                    backgroundPokemon.style.background = 'urL("../img/backBug.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backBug.jpg") no-repeat center'
                 break;
                 case "dark":
-                    backgroundPokemon.style.background = 'urL("../img/backDark.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backDark.jpg") no-repeat center'
                 break;
                 case "dragon":
-                    backgroundPokemon.style.background = 'urL("../img/backDragon.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backDragon.jpg") no-repeat center'
                 break;
                 case "electric":
-                    backgroundPokemon.style.background = 'urL("../img/backElectric.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backElectric.jpg") no-repeat center'
                 break;
                 case "fairy":
-                    backgroundPokemon.style.background = 'urL("../img/backFairy.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backFairy.jpg") no-repeat center'
                 break;
                 case "fighting":
-                    backgroundPokemon.style.background = 'urL("../img/backFighting.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backFighting.jpg") no-repeat center'
                 break;
                 case "flying":
-                    backgroundPokemon.style.background = 'urL("../img/backFlying.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backFlying.jpg") no-repeat center'
                 break;
                 case "ghost":
-                    backgroundPokemon.style.background = 'urL("../img/backGhost.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backGhost.jpg") no-repeat center'
                 break;
                 case "ground":
-                    backgroundPokemon.style.background = 'urL("../img/backGround.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backGround.jpg") no-repeat center'
                 break;
                 case "ice":
-                    backgroundPokemon.style.background = 'urL("../img/backIce.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backIce.jpg") no-repeat center'
                 break;
                 case "normal":
-                    backgroundPokemon.style.background = 'urL("../img/backNormal.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backNormal.jpg") no-repeat center'
                 break;
                 case "psychic":
-                    backgroundPokemon.style.background = 'urL("../img/backPichic.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backPichic.jpg") no-repeat center'
                 break;
                 case "rock":
-                    backgroundPokemon.style.background = 'urL("../img/backRock.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backRock.jpg") no-repeat center'
                 break;
                 case "steel":
-                    backgroundPokemon.style.background = 'urL("../img/backSteel.jpg") no-repeat center'
+                    backgroundPokemon.style.background = 'urL("./img/backSteel.jpg") no-repeat center'
                 break;
             }
 
