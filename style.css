@@ -539,6 +539,10 @@ body{
     }
 
     
+    .pokemonIndividual img{
+        margin-top: 0px;
+    }
+    
 }
 
 @media screen and (max-width: 310px){
@@ -567,6 +571,6 @@ body{
     }
 
     .pokemonIndividual img{
-        margin-top: 0;
+        margin-top: 0px;
     }
 }
