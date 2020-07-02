@@ -565,4 +565,8 @@ body{
     .btnCloseWindow{
         left: 205px;
     }
+
+    .pokemonIndividual img{
+        margin-top: 0;
+    }
 }
