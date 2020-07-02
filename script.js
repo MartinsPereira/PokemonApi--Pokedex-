@@ -23,13 +23,13 @@ async function activePokemonList(item){
             pokemonIndividual.style.background = 'urL("img/backWater.jpg") no-repeat center';pokemonIndividual.style.backgroundSize = 'cover';
         break;
         case "bug":
-            pokemonIndividual.style.background = 'urL("img/backBug.jpg") no-repeat center'pokemonIndividual.style.backgroundSize = 'cover'
+            pokemonIndividual.style.background = 'urL("img/backBug.jpg") no-repeat center';pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "dark":
-            pokemonIndividual.style.background = 'urL("img/backDark.jpg") no-repeat center'pokemonIndividual.style.backgroundSize = 'cover'
+            pokemonIndividual.style.background = 'urL("img/backDark.jpg") no-repeat center';pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "dragon":
-            pokemonIndividual.style.background = 'urL("img/backDragon.jpg") no-repeat center'pokemonIndividual.style.backgroundSize = 'cover'
+            pokemonIndividual.style.background = 'urL("img/backDragon.jpg") no-repeat center';pokemonIndividual.style.backgroundSize = 'cover'
         break;
         case "electric":
             pokemonIndividual.style.background = 'urL("img/backElectric.jpg") no-repeat center';pokemonIndividual.style.backgroundSize = 'cover';
